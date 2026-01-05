@@ -4,7 +4,7 @@
 > 
 > Evidence-based ATS scoring, realistic salary analysis, and comprehensive hiring reports - all running 100% locally on your machine.
 
-![Version](https://img.shields.io/badge/version-3.0-blue)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 ![License](https://img.shields.io/badge/license-MIT-orange)
 ![AI](https://img.shields.io/badge/AI-Mistral%207B-purple)
