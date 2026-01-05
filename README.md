@@ -31,7 +31,7 @@
 
 HR Job Matcher Pro is an intelligent recruitment assistant that helps HR professionals and hiring managers evaluate candidates accurately and efficiently. Unlike cloud-based solutions, this tool runs **entirely on your local machine**, ensuring complete data privacy.
 
-### What Makes v3.0 Special?
+### What Makes v1.0 Special?
 
 - **🎯 Strict Accuracy**: Only extracts and uses information explicitly stated in resumes
 - **📊 Evidence-Based Scoring**: Every match point is backed by quoted text from JD and resume
