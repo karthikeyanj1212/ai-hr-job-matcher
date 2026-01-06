@@ -1,5 +1,5 @@
 """
-🎯 HR Job Matcher Pro v3.0
+🎯 HR Job Matcher Pro v1.0
 - Strict accuracy - only uses information from actual resume
 - Detailed ATS scoring with positive/negative evidence
 - Comprehensive hiring report
@@ -112,7 +112,7 @@ Expected CTC: 9-11 LPA
 # ============ SIDEBAR ============
 
 with st.sidebar:
-    st.title("🎯 HR Matcher Pro v3")
+    st.title("🎯 HR Matcher Pro v1.0")
     st.caption("Strict Accuracy Version")
     st.markdown("---")
     
@@ -141,7 +141,7 @@ with st.sidebar:
             st.rerun()
     
     st.markdown("---")
-    st.caption("v3.0 - Strict Accuracy")
+    st.caption("v1.0 - Strict Accuracy")
     st.caption("• Evidence-based scoring")
     st.caption("• No hallucination")
     st.caption("• Detailed +/- matches")
@@ -149,7 +149,7 @@ with st.sidebar:
 # ============ HEADER ============
 
 st.markdown('<p class="main-header">🎯 HR Job Matcher Pro</p>', unsafe_allow_html=True)
-st.markdown('<p style="text-align:center;color:#666;">AI Recruitment Assistant | Strict Accuracy | Evidence-Based Analysis | v3.0</p>', unsafe_allow_html=True)
+st.markdown('<p style="text-align:center;color:#666;">AI Recruitment Assistant | Strict Accuracy | Evidence-Based Analysis | v1.0</p>', unsafe_allow_html=True)
 
 # ============ TABS ============
 
